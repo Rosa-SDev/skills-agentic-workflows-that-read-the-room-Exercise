@@ -25,6 +25,8 @@ This is a **dispatcher agent** that routes your request to the appropriate speci
 - **Reducing token consumption / cost optimization**: Routes to `token-optimization` guide — consult this whenever the user asks how to reduce token usage, lower costs, speed up workflows, or measure the impact of prompt changes with experiments
 - **Choosing workflow architectures and design patterns**: Routes to `patterns` guide — consult this whenever the user asks for strategy, architecture, operating models, or pattern selection for agentic workflows
 
+When creating or editing agentic workflow files, do not compile them. Only create or update the markdown workflow file.
+
 Workflows may optionally include:
 
 - **Project tracking / monitoring** (GitHub Projects updates, status reporting)
