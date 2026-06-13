@@ -18,3 +18,4 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 ## Latest GitHub Updates
 
 - Check the GitHub Blog for major product announcements, then scan the GitHub Changelog for smaller release notes before you change team workflows.
+- Use the Awesome Copilot workflows gallery when you want fresh examples of reusable agentic workflow patterns.
