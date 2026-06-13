@@ -17,7 +17,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Latest GitHub Updates
 
-- [GitHub Blog] Copilot CLI is getting more selective about delegation, and language servers are part of the code-intelligence story. Use that framing when explaining how to keep agentic work under control.
-- [GitHub Changelog] Copilot code review now has new configurations and controls, and bot-created pull requests can run workflows when approved. That matters for teams tightening automation safely.
-- [GitHub Changelog] GitHub CLI can now list, view, and create discussions, plus manage sub-issues, types, and dependencies from the terminal. Good fit for developers who stay in the CLI.
-- [Awesome Copilot workflows] The gallery centers on AI-powered repository automations that run coding agents in GitHub Actions. Treat it as a pattern library for reusable workflow ideas.
+- [GitHub Blog] GitHub Copilot CLI is moving toward more selective delegation, and language servers now matter for code intelligence. Useful framing: prefer precise tools over broad repo scans when you explain agentic work.
+- [GitHub Changelog] Copilot code review now has new configurations and controls, and bot-created pull requests can run workflows once approved. Good for teams that want automation with tighter guardrails.
+- [GitHub Changelog] GitHub CLI can now list, view, and create discussions, and it can manage sub-issues, issue types, and dependencies from the terminal. Handy for CLI-first maintainers.
+- [Awesome Copilot workflows] The gallery is a pattern library for AI-powered repository automations in GitHub Actions. Use it for reusable workflow ideas, not one-off demos.
