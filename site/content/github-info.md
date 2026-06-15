@@ -11,13 +11,14 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 ## Current homepage themes
 
 - GitHub collaboration basics: repositories, branches, pull requests, and merges.
-- GitHub Copilot as an AI coding assistant across the IDE, CLI, and GitHub.
-- GitHub Actions as the automation layer behind repository workflows.
-- Recent GitHub Blog and Changelog stories worth watching.
+- GitHub Copilot across the IDE, CLI, and GitHub, with selective delegation and stronger code intelligence from language servers. [GitHub Blog]
+- GitHub Actions as the automation layer behind repository workflows, plus reusable patterns from the Awesome Copilot workflows gallery. [Awesome Copilot workflows]
+- Recent GitHub Blog and Changelog posts worth watching for practical workflow changes. [GitHub Blog] [GitHub Changelog]
 
 ## Latest GitHub Updates
 
-- [GitHub Blog] GitHub Copilot CLI is moving toward more selective delegation, and language servers now matter for code intelligence. Useful framing: prefer precise tools over broad repo scans when you explain agentic work.
-- [GitHub Changelog] Copilot code review now has new configurations and controls, and bot-created pull requests can run workflows once approved. Good for teams that want automation with tighter guardrails.
-- [GitHub Changelog] GitHub CLI can now list, view, and create discussions, and it can manage sub-issues, issue types, and dependencies from the terminal. Handy for CLI-first maintainers.
-- [Awesome Copilot workflows] The gallery is a pattern library for AI-powered repository automations in GitHub Actions. Use it for reusable workflow ideas, not one-off demos.
+- [GitHub Blog] Copilot CLI works better when you delegate narrowly and lean on language servers for code intelligence. That makes agentic work feel more precise and less like a broad repo scan.
+- [GitHub Changelog] Copilot code review now has new configurations and controls. Good for teams that want review automation with tighter guardrails.
+- [GitHub Changelog] Bot-created pull requests can run workflows once they are approved. Useful when you want automation without blocking follow-up checks.
+- [GitHub Changelog] GitHub CLI can list, view, and create discussions, and it can manage sub-issues, issue types, and dependencies from the terminal. Handy for CLI-first maintainers.
+- [Awesome Copilot workflows] The gallery is a reusable pattern library for AI-powered repository automations in GitHub Actions. It is better for borrowing ideas than for copying a full solution as-is.
