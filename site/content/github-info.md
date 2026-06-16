@@ -11,13 +11,13 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 ## Current homepage themes
 
 - GitHub collaboration basics: repositories, branches, pull requests, and merges.
-- GitHub Copilot as an AI coding assistant across the IDE, CLI, and GitHub.
-- GitHub Actions as the automation layer behind repository workflows.
-- Recent GitHub Blog and Changelog stories worth watching.
+- GitHub Copilot across the IDE, CLI, and GitHub.
+- GitHub Actions for reusable automation.
+- Agentic workflows with tighter delegation and clearer guardrails.
 
 ## Latest GitHub Updates
 
-- [GitHub Blog] GitHub Copilot CLI is moving toward more selective delegation, and language servers now matter for code intelligence. Useful framing: prefer precise tools over broad repo scans when you explain agentic work.
-- [GitHub Changelog] Copilot code review now has new configurations and controls, and bot-created pull requests can run workflows once approved. Good for teams that want automation with tighter guardrails.
-- [GitHub Changelog] GitHub CLI can now list, view, and create discussions, and it can manage sub-issues, issue types, and dependencies from the terminal. Handy for CLI-first maintainers.
-- [Awesome Copilot workflows] The gallery is a pattern library for AI-powered repository automations in GitHub Actions. Use it for reusable workflow ideas, not one-off demos.
+- [GitHub Blog] Copilot CLI is getting more selective about delegation, and language servers add real code intelligence. Practical takeaway: keep agent scopes narrow and tool-aware.
+- [GitHub Changelog] Copilot code review now has new configurations and controls. Bot-created pull requests can also run workflows after approval.
+- [GitHub Changelog] GitHub CLI can list, view, and create discussions, and it can manage sub-issues, types, and dependencies from the terminal. Useful for CLI-first maintainers.
+- [Awesome Copilot workflows] The gallery is a pattern library for GitHub Actions automations. Use it for reusable workflow ideas, not one-off demos.
